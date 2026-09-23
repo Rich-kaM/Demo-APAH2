@@ -1,0 +1,11 @@
+{
+  "name": "Africa Power Advisory Holdings",
+  "short_name": "APAH",
+  "start_url": "/fr/",
+  "display": "standalone",
+  "background_color": "#102b55",
+  "theme_color": "#102b55",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "africa-power-advisory-holdings-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "check:content": "node scripts/check-public-content.mjs",
+    "check:links": "node scripts/check-rendered-links.mjs",
+    "check": "npm run check:content && npm run check:links"
+  }
+}
